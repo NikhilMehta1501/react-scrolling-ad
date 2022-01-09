@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/react-scrolling-ad/static/css/main.0a70f212.css",
+    "main.js": "/react-scrolling-ad/static/js/main.56c985f9.js",
+    "static/js/787.48674d2e.chunk.js": "/react-scrolling-ad/static/js/787.48674d2e.chunk.js",
+    "static/media/slide5-allpic.png": "/react-scrolling-ad/static/media/slide5-allpic.1aa4aed4904692586d35.png",
+    "static/media/slide3-allpics.png": "/react-scrolling-ad/static/media/slide3-allpics.c4566144ba811fcb944e.png",
+    "static/media/slide4-pic2.png": "/react-scrolling-ad/static/media/slide4-pic2.e09927ce2058dff5469b.png",
+    "static/media/slide6-allpic.png": "/react-scrolling-ad/static/media/slide6-allpic.4a6ede81665395aea3b7.png",
+    "static/media/slide7-allpic.png": "/react-scrolling-ad/static/media/slide7-allpic.7712dfb53fee13d03904.png",
+    "static/media/slide4-pic.png": "/react-scrolling-ad/static/media/slide4-pic.5215dff016d71dd50ae2.png",
+    "static/media/slide7-pic1.png": "/react-scrolling-ad/static/media/slide7-pic1.1f36bb9276853f5ee4c0.png",
+    "static/media/slide6-pic1.png": "/react-scrolling-ad/static/media/slide6-pic1.a2b88dd7c69ed26bad68.png",
+    "static/media/slide1-pic1.png": "/react-scrolling-ad/static/media/slide1-pic1.a097d14f0d97e72c07ca.png",
+    "static/media/slide5-pic2.png": "/react-scrolling-ad/static/media/slide5-pic2.7ab108bdf702e52d05db.png",
+    "static/media/slide5-pic1.png": "/react-scrolling-ad/static/media/slide5-pic1.31742997809b4a71f0f2.png",
+    "static/media/slide7-pic2.png": "/react-scrolling-ad/static/media/slide7-pic2.d4ad151be6f1b1001134.png",
+    "static/media/slide2-pic1.png": "/react-scrolling-ad/static/media/slide2-pic1.0db5502e10ffc9f95c73.png",
+    "static/media/slide6-pic2.png": "/react-scrolling-ad/static/media/slide6-pic2.e1fbdcb093d148d0c4d0.png",
+    "static/media/slide2-pic7.png": "/react-scrolling-ad/static/media/slide2-pic7.5f7f048ebf6cae61a59f.png",
+    "static/media/slide3-pic4.png": "/react-scrolling-ad/static/media/slide3-pic4.683c1946dc3e456120bf.png",
+    "static/media/slide3-pic5.png": "/react-scrolling-ad/static/media/slide3-pic5.351cc80cf46ea399661f.png",
+    "static/media/slide3-pic1.png": "/react-scrolling-ad/static/media/slide3-pic1.fb313ef81a6f97dc713b.png",
+    "static/media/slide3-pic3.png": "/react-scrolling-ad/static/media/slide3-pic3.f43cb0271bd95a3047ab.png",
+    "static/media/slide2-pic6.png": "/react-scrolling-ad/static/media/slide2-pic6.b9e4ec54131668b81f2f.png",
+    "static/media/slide2-pic2.png": "/react-scrolling-ad/static/media/slide2-pic2.0dd9fc639d051ac4e547.png",
+    "static/media/slide1-pic2.png": "/react-scrolling-ad/static/media/slide1-pic2.e9e087f3640c36e03f58.png",
+    "static/media/slide2-pic3.png": "/react-scrolling-ad/static/media/slide2-pic3.02928ea7e681482e9936.png",
+    "static/media/slide3-pic2.png": "/react-scrolling-ad/static/media/slide3-pic2.e2b53c772192457b11d0.png",
+    "static/media/slide2-pic5.png": "/react-scrolling-ad/static/media/slide2-pic5.5845a18d030ff5a46660.png",
+    "index.html": "/react-scrolling-ad/index.html",
+    "main.0a70f212.css.map": "/react-scrolling-ad/static/css/main.0a70f212.css.map",
+    "main.56c985f9.js.map": "/react-scrolling-ad/static/js/main.56c985f9.js.map",
+    "787.48674d2e.chunk.js.map": "/react-scrolling-ad/static/js/787.48674d2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a70f212.css",
+    "static/js/main.56c985f9.js"
+  ]
+}
