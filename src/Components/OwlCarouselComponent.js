@@ -13,6 +13,7 @@ function OwlCarouselComponent() {
     items={1}
     loop={true}
     items={1}
+    responsiveClass={true}
     margin={10}
     autoplay={true}
     autoplayTimeout={2500}

@@ -107,16 +107,18 @@ function App() {
   return (
     <div className="App">
       <OwlCarouselComponent/>
-      <MainSVG/>
-      { panels.map(panel => (<Panel panel={panel} key={panel.id}/>)) }
-      <Headings
-        headings={headings}
-        headingsText={headingsText}
-        titlesHeader={titlesHeader}
-        titles={titles}
-        titlesFooter={titlesFooter}
-      />
-      <Images />
+      <div id='desktop-element'>
+        <MainSVG/>
+        { panels.map(panel => (<Panel panel={panel} key={panel.id}/>)) }
+        <Headings
+          headings={headings}
+          headingsText={headingsText}
+          titlesHeader={titlesHeader}
+          titles={titles}
+          titlesFooter={titlesFooter}
+          />
+        <Images />
+      </div>
     </div>
   );
 }
